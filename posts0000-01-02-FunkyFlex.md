@@ -1,7 +1,7 @@
 _posts/0000-01-02-FunkyFlex.md
 
 ---
-layout: slide
+layout: slide 
 title: "Welcome to our second slide!"
 ---
 Your text
